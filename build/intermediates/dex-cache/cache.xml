@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-5067646dea8a5d56bc2f953d446830348ddb39fd.jar" />
+    </item>
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-011e115eb1e6389a3f12c4b1d937808bfe23369b.jar" />
+    </item>
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/gson-2.4-d009a1f6c5a49fabe8622c7cb10bec9608daf456.jar" />
+    </item>
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.0/f1e24ac977505d1fdcabadaa5be1f41dc11c4286/butterknife-7.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f1e24ac977505d1fdcabadaa5be1f41dc11c4286">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/butterknife-7.0.0-eefa1ebb6cc9e10f345d54da8c454e4755d64ac9.jar" />
+    </item>
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/okio-1.6.0-5c9320a351f8c46693da6f4f390d93e13e17e42d.jar" />
+    </item>
+    <item
+        jar="/Users/dnorvell/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.0/1477ec5caf8319ab4b51eb43553cd66aa86fdea5/okhttp-2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1477ec5caf8319ab4b51eb43553cd66aa86fdea5">
+        <dex dex="/Users/dnorvell/Developer/CallListener/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0-85e84ec0cb71c39576f475e20cef48de65f5c779.jar" />
+    </item>
+
+</items>
